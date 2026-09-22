@@ -1,10 +1,1 @@
-{
-  "versionCode": 580,
-  "versionName": "5.8.0",
-  "title": "发现新版本 v5.8.0",
-  "content": "1. 紧急修复：回退WebGL覆盖层为稳定CSS毛玻璃（修复白色矩形遮挡问题）\n2. 修复Root授权toast常驻问题（减少轮询次数避免反复触发Magisk toast）\n3. 首次授权流程：严格存储→Root顺序",
-  "downloadUrl": "https://codeberg.org/smartxgq/twt-update/raw/branch/main/bin/TwTLoader_v5.8.0.apk",
-  "forceUpdate": false,
-  "minSupportCode": 0,
-  "publishedAt": "2026-09-22"
-}
+{"versionCode": 590, "versionName": "5.8.0", "title": "发现新版本 v5.8.0", "content": "1. 紧急修复：回退WebGL覆盖层为稳定CSS毛玻璃\n2. 修复Root授权toast常驻问题\n3. 首次授权流程：严格存储→Root顺序", "downloadUrl": "https://codeberg.org/smartxgq/twt-update/raw/branch/main/bin/TwTLoader_v5.8.0.apk", "forceUpdate": true, "minSupportCode": 0, "publishedAt": "2026-09-22"}
