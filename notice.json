@@ -1,17 +1,1 @@
-{
-  "noticeId": "20260921-01",
-  "enabled": true,
-  "title": "云端公告",
-  "pillLeft": "✦ 云端公告",
-  "pillRight": "◉ 官方频道 @SMARTXGQ",
-  "paragraphs": [
-    "欢迎使用 SMART · 内核级陀螺仪。",
-    "TwTLoader 主加载已支持云端更新，刷入前会自动部署最新脚本。",
-    "内核主文件与 KPM 驱动可在驱动管理内单独更新。"
-  ],
-  "buttonText": "我知道了",
-  "buttonUrl": "",
-  "countdownMs": 5000,
-  "minVersionCode": 0,
-  "maxVersionCode": 0
-}
+{"noticeId": "20260921-01", "enabled": true, "title": "云端公告", "pillLeft": "✦ 云端公告", "pillRight": "◉ 官方频道 @SMARTXGQ", "paragraphs": ["欢迎使用 SMART · 内核级陀螺仪。", "TwTLoader 主加载已支持云端更新，刷入前会自动部署最新脚本。", "内核主文件与 KPM 驱动可在驱动管理内单独更新。"], "buttonText": "我知道了", "buttonUrl": "", "countdownMs": 5000, "minVersionCode": 0, "maxVersionCode": 0}
