@@ -1,1 +1,1 @@
-{"versionCode": 598, "versionName": "5.8.8", "title": "发现新版本 v5.8.8", "content": "1. 修复公告下发问题\n2. 修复控制台发布失败\n3. 优化双仓库连接", "downloadUrl": "", "forceUpdate": false, "minSupportCode": 0, "publishedAt": "2026-09-24"}
+{"versionCode":599,"versionName":"5.8.8","title":"发现新版本 v5.8.8","content":"1. 修复公告下发问题\n2. 修复控制台发布失败\n3. 优化双仓库连接","downloadUrl":"","forceUpdate":false,"minSupportCode":0,"publishedAt":"2026-09-23"}
