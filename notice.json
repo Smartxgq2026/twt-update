@@ -1,1 +1,1 @@
-{"noticeId": "20260924-01", "enabled": true, "title": "测试公告", "pillLeft": "✦ 云端公告", "pillRight": "◉ 官方频道 @SMARTXGQ", "paragraphs": ["这是一条测试公告", "如果能看到说明公告下发正常", "时间：2026-09-24"], "buttonText": "我知道了", "buttonUrl": "", "countdownMs": 5000, "minVersionCode": 0, "maxVersionCode": 0}
+{"noticeId": "20260924-test-002", "enabled": true, "title": "测试公告v2", "pillLeft": "✦ 云端公告", "pillRight": "◉ 官方频道 @SMARTXGQ", "paragraphs": ["这是第二条测试公告", "看到说明公告下发正常", "时间：2026-09-24 11:00"], "buttonText": "我知道了", "buttonUrl": "", "countdownMs": 5000, "minVersionCode": 0, "maxVersionCode": 0}
