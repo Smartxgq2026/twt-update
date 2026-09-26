@@ -1,1 +1,22 @@
-{"noticeId":"20260924-01","enabled":true,"title":"公告","pillLeft":"✦ SMART","pillRight":"◉ 官方频道","paragraphs":["本系列产品无任何收费以及内部等，切勿被骗","开发者也不会主动联系你","本系列作品仅供学习研究","使用者的任何行为与应用开发者无关","请在24小时内删除本应用 [下载代表同意本协议]","若有侵权违法行为，请联系我删除内容"],"buttonText":"确认","buttonUrl":"","countdownMs":5000,"minVersionCode":0,"maxVersionCode":0}
+{
+  "noticeId": "20260926-01",
+  "enabled": true,
+  "title": "公告",
+  "pillLeft": "✦ SMART",
+  "pillRight": "◉ 官方频道",
+  "bannerTitle": "宣传SMART内核发布视频",
+  "bannerBody": "评论区置顶@SMARTYOKL 快手宣传SMART的视频，播放量超过3000、点赞超过20个，如视频突然爆火可领取一张周卡；如视频热度长期稳定较高，可选择免费代理位。",
+  "paragraphs": [
+    "本系列产品无任何收费以及内部等，切勿被骗",
+    "开发者也不会主动联系你",
+    "本系列作品仅供学习研究",
+    "使用者的任何行为与应用开发者无关",
+    "请在24小时内删除本应用 [下载代表同意本协议]",
+    "若有侵权违法行为，请联系我删除内容"
+  ],
+  "buttonText": "确认",
+  "buttonUrl": "",
+  "countdownMs": 5000,
+  "minVersionCode": 0,
+  "maxVersionCode": 0
+}
